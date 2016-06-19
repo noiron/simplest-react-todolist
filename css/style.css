@@ -1,0 +1,10 @@
+input[type="checkbox"] {
+    margin-right: 10px;
+}
+
+button.close {
+    display: none;
+    font-size: 12px;
+    height: 18px;
+    width: 18px;
+}
